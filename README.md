@@ -10,4 +10,6 @@ Para gerar essa key utilize o comando a seguir no seu terminal  , lembrando que 
 keytool -genkey -v -keystore example.keystore -alias example -keyalg RSA -keysize 2048 -validity 10000
 </pre>
 
+O cordova "builda" as APKs por 2 formas diferentes uma utilizando o <b>Gradle Build Tool</b> e o <b>Apache Ant</b>
+
 

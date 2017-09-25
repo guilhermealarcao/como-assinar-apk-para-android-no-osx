@@ -15,7 +15,6 @@ O cordova "builda" as APKs por duas formas diferentes uma utilizando o <b>Gradle
 As versões mais recentes do cordova estão utilizando <b>Gradle Build Tool</b> porém irei mostrar as duas formas caso alguém precise.
 
 <h2>Utilizando <b>Gradle Build Tool</b> </h2>
-
-
+Quando utilizamos o <b>Gradle</b> precisaremos criar um arquivo chamado <b>build.json</b>
 
 <h2>Utilizando <b>Apache Ant</b></h2>

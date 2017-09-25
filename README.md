@@ -31,3 +31,8 @@ Quando utilizamos o <b>Gradle</b> precisaremos criar um arquivo chamado <b>build
 </pre>
 O arquivo deve ser criado preferencialmente no mesmo diretorio que a chave(key) foi criado
 <h2>Utilizando <b>Apache Ant</b></h2>
+Quando utilizamos o <b>Ant</b> para realizar a build precisaremos criar um arquivo chamado <b>ant.properties</b> com seguinte codigo:
+<pre>
+key.store=example.keystore
+key.alias=example
+</pre>
